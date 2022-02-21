@@ -35,8 +35,6 @@ namespace Oskar21_22
     }
 
 
-
-
     class Alumno
     {
         private string nombre;
