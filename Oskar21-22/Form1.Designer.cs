@@ -35,7 +35,8 @@ namespace Oskar21_22
             this.listaAlumnos = new System.Windows.Forms.RichTextBox();
             this.button1 = new System.Windows.Forms.Button();
             this.aluNombre = new System.Windows.Forms.TextBox();
-            this.aluNota = new System.Windows.Forms.TextBox();
+            this.aluNota = new System.Windows.Forms.NumericUpDown();
+            ((System.ComponentModel.ISupportInitialize)(this.aluNota)).BeginInit();
             this.SuspendLayout();
             // 
             // label1
@@ -94,9 +95,9 @@ namespace Oskar21_22
             // 
             // aluNota
             // 
-            this.aluNota.Location = new System.Drawing.Point(220, 48);
+            this.aluNota.Location = new System.Drawing.Point(244, 48);
             this.aluNota.Name = "aluNota";
-            this.aluNota.Size = new System.Drawing.Size(100, 20);
+            this.aluNota.Size = new System.Drawing.Size(47, 20);
             this.aluNota.TabIndex = 6;
             // 
             // Form1
@@ -114,6 +115,7 @@ namespace Oskar21_22
             this.Controls.Add(this.label1);
             this.Name = "Form1";
             this.Text = "Form1";
+            ((System.ComponentModel.ISupportInitialize)(this.aluNota)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -127,7 +129,7 @@ namespace Oskar21_22
         private System.Windows.Forms.RichTextBox listaAlumnos;
         private System.Windows.Forms.Button button1;
         private System.Windows.Forms.TextBox aluNombre;
-        private System.Windows.Forms.TextBox aluNota;
+        private System.Windows.Forms.NumericUpDown aluNota;
     }
 }
 

@@ -8,3 +8,13 @@ F:\DAW\ENTORNOS DE DESARROLLO\T5\borrajo21457\Oskar-T5-Practica-21-22\Oskar21-22
 F:\DAW\ENTORNOS DE DESARROLLO\T5\borrajo21457\Oskar-T5-Practica-21-22\Oskar21-22\obj\Debug\Oskar21-22.csproj.CoreCompileInputs.cache
 F:\DAW\ENTORNOS DE DESARROLLO\T5\borrajo21457\Oskar-T5-Practica-21-22\Oskar21-22\obj\Debug\Oskar21-22.exe
 F:\DAW\ENTORNOS DE DESARROLLO\T5\borrajo21457\Oskar-T5-Practica-21-22\Oskar21-22\obj\Debug\Oskar21-22.pdb
+C:\Users\oskar\Source\Repos\borrajo21457\Oskar-T5-Practica-21-22\Oskar21-22\bin\Debug\Oskar21-22.exe.config
+C:\Users\oskar\Source\Repos\borrajo21457\Oskar-T5-Practica-21-22\Oskar21-22\bin\Debug\Oskar21-22.exe
+C:\Users\oskar\Source\Repos\borrajo21457\Oskar-T5-Practica-21-22\Oskar21-22\bin\Debug\Oskar21-22.pdb
+C:\Users\oskar\Source\Repos\borrajo21457\Oskar-T5-Practica-21-22\Oskar21-22\obj\Debug\Oskar21-22.csproj.AssemblyReference.cache
+C:\Users\oskar\Source\Repos\borrajo21457\Oskar-T5-Practica-21-22\Oskar21-22\obj\Debug\Oskar21_22.Form1.resources
+C:\Users\oskar\Source\Repos\borrajo21457\Oskar-T5-Practica-21-22\Oskar21-22\obj\Debug\Oskar21_22.Properties.Resources.resources
+C:\Users\oskar\Source\Repos\borrajo21457\Oskar-T5-Practica-21-22\Oskar21-22\obj\Debug\Oskar21-22.csproj.GenerateResource.cache
+C:\Users\oskar\Source\Repos\borrajo21457\Oskar-T5-Practica-21-22\Oskar21-22\obj\Debug\Oskar21-22.csproj.CoreCompileInputs.cache
+C:\Users\oskar\Source\Repos\borrajo21457\Oskar-T5-Practica-21-22\Oskar21-22\obj\Debug\Oskar21-22.exe
+C:\Users\oskar\Source\Repos\borrajo21457\Oskar-T5-Practica-21-22\Oskar21-22\obj\Debug\Oskar21-22.pdb
