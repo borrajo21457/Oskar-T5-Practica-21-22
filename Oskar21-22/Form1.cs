@@ -9,6 +9,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
+// Solo practicaba para ED
 namespace Oskar21_22
 {
 
